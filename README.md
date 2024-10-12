@@ -48,17 +48,17 @@ Water plays an important role in the assembly, stability, and function of RNA–
      ```
       - `-1`: Identify water bridges in RNA–protein complexes. For this, ensure that the output files from HBPLUS are placed in the current directory.
       - `-2`: Analyze the output of option 1 and identify the topology of the water bridges, such as A1:w:N1, A1:w:N2, and others.
-      - `-3`: Provide nomenclature for the A1:w:N1 topology only.
+      - `-3`: Provide nomenclature for the identifed topology only.
 
 
 2.  On Windows machine:
    
-   - Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of A1-w-N1 waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
+   - Place all three codes (‘1_Identification of water bridges.py’, ‘2_Topological classification of water bridges.py’, and ‘3_Nomenclature of waterbridges.py’) into a folder along with ‘.hb2’ files obtained from HBPLUS and respective PDB files.
 
    - Run three python codes in sequence:
       - 1_Identification of water bridges.py (identify water bridges)
       - 2_Topological classification of water bridges.py (classify water bridges)
-      - 3_Nomenclature of A1-w-N1 waterbridges.py (assign a name to each A1:w:N1 water bridges)
+      - 3_Nomenclature of waterbridges.py (assign a name to each identified water bridge)
 
 
 ## Dataset
