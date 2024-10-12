@@ -1,0 +1,226 @@
+********************  pdb1dul.hb2  ********************
+A0124-HOH O --- B0148-  A N1  3.09 --- B0164-  A N3  3.04 --- A0033-ASN O   2.90 --- A0040-ARG NH2 2.91 ['B0148-  A N6  A0033-ASN O   3.25'] —> cyc-ARG40(s)|ASN33(m):w:rA148(WC)|rA164(SG)
+********************  pdb1ec6.hb2  ********************
+C0023-HOH O --- C0011-  A O3' 3.07 --- C0012-  U OP2 2.74 --- B0014-GLU O   2.83 --- B0018-GLY N   2.81 ['NIL'] —> GLY18(m)|GLU14(m):w:rU12(Ph)|rA11(Rb)
+********************  pdb1feu.hb2  ********************
+B0038-HOH O --- B0075-  G N1  2.73 --- B0075-  G N2  3.06 --- C0101-  A N1  2.90 --- A0073-GLN OE1 2.90 --- A0075-ASN OD1 2.78 ['B0075-  G N2  A0073-GLN OE1 3.02'] —> cyc-GLN73(s)|ASN75(s):w:rA101(WC)|rG75(WC)
+D0329-HOH O --- E0075-  G N1  2.68 --- E0075-  G N2  3.16 --- F0101-  A N1  2.91 --- D0073-GLN OE1 2.67 --- D0075-ASN OD1 3.27 ['E0075-  G N2  D0073-GLN OE1 3.00'] —> cyc-GLN73(s)|ASN75(s):w:rA101(WC)|rG75(WC)
+********************  pdb1ffy.hb2  ********************
+T1212-HOH O --- T0035-  A N6  2.69 --- T0039-  G O3' 3.31 --- T0039-  G O2' 3.04 --- A0717-SER O   3.03 --- A0725-LYS NZ  3.08 ['T0035-  A N7  A0725-LYS NZ  3.08', "T0039-  G O3' A0717-SER OG  3.32"] —> cyc-LYS725(s)|SER717(m):w:rA35(HG)|rG39(SG)
+T1276-HOH O --- T0039-  G O2' 2.46 --- T0040-  G O4' 3.16 --- A0722-ASP OD2 2.52 --- A0725-LYS NZ  3.12 ['NIL'] —> LYS725(s)|ASP722(s):w:rG39(SG)|rG40(Rb)
+********************  pdb1g59.hb2  ********************
+A0496-HOH O --- B0512-  C O2' 3.26 --- B0513-  U O5' 3.13 --- A0272-LEU O   2.77 --- A0275-PHE O   2.94 ["B0512-  C O2' A0272-LEU O   2.91"] —> cyc-PHE275(m)|LEU272(m):w:rC512(SG)|rU513(Ph)
+********************  pdb1jid.hb2  ********************
+B0309-HOH O --- B0150-  G OP1 2.61 --- B0151-  C OP2 2.74 --- A0034-ARG NH2 2.75 --- A0068-TYR OH  2.73 ['NIL'] —> TYR68(s)|ARG34(s):w:rC151(Ph)|rG150(Ph)
+B0313-HOH O --- B0147-  G N1  2.91 --- B0150-  G OP2 2.68 --- A0022-TYR OH  3.00 --- A0034-ARG NH2 2.79 ['B0150-  G OP1 A0022-TYR OH  2.56'] —> cyc-TYR22(s)|ARG34(s):w:rG147(WC)|rG150(Ph)
+********************  pdb1jj2.hb2  ********************
+03359-HOH O --- 02390-  U OP1 2.47 --- 02392-  C OP2 3.10 --- P0004-ASN ND2 2.89 --- P0055-ARG NH2 2.92 ['02390-  U OP1 P0055-ARG NH1 2.83', '02390-  U OP1 P0055-ARG NH2 3.22'] —> cyc-ASN4(s)|ARG55(s):w:rC2392(Ph)|rU2390(Ph)
+04616-HOH O --- 02366-  C O3' 2.83 --- 02366-  C O2' 3.04 --- 02370-  A N7  3.17 --- M0021-HIS NE2 3.26 --- P0023-THR OG1 3.27 ['NIL'] —> THR23(s)|HIS21(s):w:rA2370(HG)|rC2366(SG)
+04733-HOH O --- 01294-  A OP1 2.83 --- 01295-  G OP2 2.71 --- K0010-SER O   2.88 --- K0012-THR OG1 3.33 ['01295-  G OP1 K0012-THR OG1 2.85'] —> cyc-THR12(s)|SER10(m):w:rA1294(Ph)|rG1295(Ph)
+05020-HOH O --- 00701-  U O4  2.59 --- 00722-  G OP1 2.49 --- N0047-ARG NH1 2.70 --- N0051-TYR OH  3.06 ['NIL'] —> TYR51(s)|ARG47(s):w:rU701(HG)|rG722(Ph)
+06057-HOH O --- 02305-  A OP1 3.31 --- 02306-  U OP2 2.65 --- P0004-ASN OD1 3.28 --- P0055-ARG NH2 3.27 ['02305-  A OP1 P0055-ARG NE  2.88'] —> cyc-ASN4(s)|ARG55(s):w:rA2305(Ph)|rU2306(Ph)
+08551-HOH O --- 00161-  A OP2 2.67 --- 00174-  A N1  2.72 --- L0082-ARG NE  3.12 --- L0082-ARG NH2 3.30 --- L0085-ARG NE  2.79 ['00161-  A OP1 L0082-ARG N   2.92'] —> cyc-ARG85(s)|ARG82(s):w:rA174(WC)|rA161(Ph)
+08677-HOH O --- 01234-  U O4  2.72 --- 02066-  C OP1 3.32 --- B0243-ASN OD1 3.26 --- B0245-SER N   3.11 --- B0245-SER OG  3.18 ['NIL'] —> ASN243(s)|SER245(ms):w:rU1234(WC)|rC2066(Ph)
+08888-HOH O --- 01785-  G OP1 2.46 --- 01786-  C OP2 2.88 --- O0076-GLY N   2.50 --- O0079-SER OG  2.85 ['NIL'] —> SER79(s)|GLY76(m):w:rC1786(Ph)|rG1785(Ph)
+09166-HOH O --- 01007-  A N6  3.21 --- 02311-  A O2' 2.73 --- H0014-TYR OH  2.78 --- H0019-TYR O   2.94 ['NIL'] —> TYR14(s)|TYR19(m):w:rA1007(WC)|rA2311(SG)
+09451-HOH O --- 01468-  G OP1 3.34 --- 01469-  C OP2 2.50 --- L0068-ARG N   3.23 --- L0104-ARG NH1 2.74 ['01469-  C OP2 L0104-ARG NH2 2.94'] —> cyc-ARG104(s)|ARG68(m):w:rC1469(Ph)|rG1468(Ph)
+09476-HOH O --- 00218-  C OP2 3.08 --- 00395-  A O3' 3.08 --- 00395-  A O2' 2.80 --- 20035-TRP NE1 3.01 --- 20042-ARG NH2 2.89 ['NIL'] —> TRP35(s)|ARG42(s):w:rA395(SG)|rC218(Ph)
+10131-HOH O --- 01416-  G OP1 3.28 --- 01417-  G N2  3.06 --- 10048-ASP O   2.84 --- 10049-GLU O   2.67 ['NIL'] —> GLU49(m)|ASP48(m):w:rG1417(WC)|rG1416(Ph)
+A8519-HOH O --- 01852-  A N3  2.87 --- 01880-  C O2  2.94 --- A0226-GLY O   2.76 --- A0228-ILE N   2.77 ["01852-  A O2' A0228-ILE O   2.78", "01880-  C O2' A0226-GLY N   2.81", "01880-  C O2' A0226-GLY O   2.75"] —> cyc-ILE228(m)|GLY226(m):w:rA1852(SG)|rC1880(SG)
+A8560-HOH O --- 01872-  C O2' 3.19 --- 01873-  G OP1 3.07 --- A0025-ALA O   2.98 --- A0048-ASP OD2 2.76 ["01872-  C O2' A0025-ALA O   3.07"] —> cyc-ASP48(s)|ALA25(m):w:rC1872(SG)|rG1873(Ph)
+A8585-HOH O --- 01851-  G O3' 3.01 --- 01852-  A OP1 2.79 --- A0232-ARG NE  2.65 --- A0234-GLY O   2.86 ['NIL'] —> ARG232(s)|GLY234(m):w:rA1852(Ph)|rG1851(Rb)
+B8582-HOH O --- 02807-  U OP1 3.20 --- 02808-  U OP2 2.83 --- B0027-ASN ND2 2.87 --- B0263-THR OG1 2.58 ['02808-  U OP1 B0263-THR OG1 2.92'] —> cyc-THR263(s)|ASN27(s):w:rU2807(Ph)|rU2808(Ph)
+B8588-HOH O --- 02679-  G O2' 3.03 --- 02681-  A N7  3.23 --- 02681-  A N6  3.20 --- B0010-SER OG  3.30 --- B0011-LEU N   2.83 ['02681-  A N7  B0010-SER OG  2.76'] —> cyc-SER10(s)|LEU11(m):w:rA2681(HG)|rG2679(SG)
+C8309-HOH O --- 00645-  U O2  3.16 --- 00760-  G N2  3.10 --- C0090-HIS ND1 2.84 --- C0093-LYS NZ  2.76 ["00645-  U O2' C0093-LYS NZ  2.92", '00645-  U O2  C0093-LYS NZ  2.85'] —> cyc-LYS93(s)|HIS90(s):w:rG760(WC)|rU645(SG)
+I2886-HOH O --- 02065-  C O2  3.25 --- 02081-  A O2' 3.00 --- 02081-  A N3  3.00 --- I0067-ASN OD1 2.45 --- I0068-GLY O   3.08 ["02081-  A O2' I0068-GLY O   2.72"] —> cyc-ASN67(s)|GLY68(m):w:rA2081(SG)|rC2065(SG)
+K8521-HOH O --- 00903-  U O2' 2.75 --- 00904-  U OP2 2.62 --- K0008-ARG NH1 3.15 --- K0013-HIS NE2 2.62 ['NIL'] —> HIS13(s)|ARG8(s):w:rU903(SG)|rU904(Ph)
+L8598-HOH O --- 02132-  C O3' 3.32 --- 02133-  U OP2 3.16 --- L0028-MET SD  2.91 --- L0032-ARG NH2 2.54 ['NIL'] —> MET28(s)|ARG32(s):w:rU2133(Ph)|rC2132(Rb)
+P5620-HOH O --- 01009-  U OP1 3.14 --- 02364-  A OP1 3.24 --- P0011-ARG NH1 2.55 --- P0015-LYS NZ  2.82 ['NIL'] —> LYS15(s)|ARG11(s):w:rA2364(Ph)|rU1009(Ph)
+P6597-HOH O --- 02365-  G O3' 3.23 --- 02366-  C OP1 2.56 --- P0016-ASN OD1 2.24 --- P0046-SER OG  2.93 ['02365-  G OP1 P0016-ASN N   2.82', '02366-  C OP1 P0046-SER OG  2.81'] —> cyc-SER46(s)|ASN16(s):w:rC2366(Ph)|rG2365(Rb)
+Q8522-HOH O --- 00844-  A OP2 2.61 --- 01689-  A N6  3.21 --- Q0128-ARG O   2.54 --- Q0131-GLY N   2.69 ['01689-  A N6  Q0128-ARG O   2.83'] —> cyc-GLY131(m)|ARG128(m):w:rA1689(HG)|rA844(Ph)
+R8313-HOH O --- 01674-  C OP1 2.56 --- 01675-  C OP2 2.72 --- R0054-THR OG1 2.55 --- R0062-LYS NZ  2.94 ['01675-  C OP1 R0062-LYS NZ  2.96'] —> cyc-THR54(s)|LYS62(s):w:rC1674(Ph)|rC1675(Ph)
+R8325-HOH O --- 01447-  U N3  3.22 --- 01507-  C O2' 3.29 --- R0017-ASP OD2 2.55 --- R0023-LYS NZ  3.01 ["01507-  C O3' R0023-LYS NZ  2.88"] —> cyc-LYS23(s)|ASP17(s):w:rU1447(WC)|rC1507(SG)
+R8330-HOH O --- 01444-  G O2' 3.15 --- 01502-  A N6  3.27 --- R0012-GLU OE1 2.54 --- R0013-LYS N   2.65 ['NIL'] —> GLU12(s)|LYS13(m):w:rA1502(WC)|rG1444(SG)
+X8554-HOH O --- 00595-  U O3' 3.24 --- 00596-  C OP1 2.69 --- X0114-ALA O   3.17 --- X0118-THR OG1 2.67 ['NIL'] —> THR118(s)|ALA114(m):w:rC596(Ph)|rU595(Rb)
+Y8442-HOH O --- 01601-  G OP1 2.80 --- 01602-  C OP2 3.34 --- Y0046-LYS NZ  2.46 --- Y0058-GLY O   2.58 ['01601-  G OP1 Y0046-LYS NZ  3.23'] —> cyc-LYS46(s)|GLY58(m):w:rC1602(Ph)|rG1601(Ph)
+Z8422-HOH O --- 00178-  U OP1 2.84 --- 00891-  G O3' 3.22 --- 00891-  G O2' 2.88 --- Z0049-GLU O   3.12 --- Z0052-SER O   2.74 ['NIL'] —> SER52(m)|GLU49(m):w:rG891(SG)|rU178(Ph)
+Z8426-HOH O --- 00050-  G O2' 2.85 --- 00050-  G N3  2.69 --- 00051-  G O4' 3.16 --- Z0021-ARG O   2.79 --- Z0045-ARG NH2 2.33 ['00050-  G N2  Z0021-ARG O   3.06'] —> cyc-ARG45(s)|ARG21(m):w:rG50(SG)|rG51(Rb)
+Z8441-HOH O --- 00777-  U O3' 2.99 --- 00778-  C OP1 2.97 --- Z0010-LYS O   2.64 --- Z0013-THR OG1 2.40 ['00777-  U O2  Z0013-THR N   3.12'] —> cyc-THR13(s)|LYS10(m):w:rC778(Ph)|rU777(Rb)
+********************  pdb1k8w.hb2  ********************
+B0514-HOH O --- B0417-  C O3' 3.32 --- B0418-  G OP1 2.63 --- A0064-LYS O   2.78 --- A0307-ARG NE  2.83 ['NIL'] —> ARG307(s)|LYS64(m):w:rG418(Ph)|rC417(Rb)
+********************  pdb1o0b.hb2  ********************
+B0048-HOH O --- B0912-  C O3' 3.34 --- B0913-  A OP1 2.75 --- A0313-ILE O   2.76 --- A0314-GLY O   3.29 ["B0912-  C O2' A0313-ILE O   2.91"] —> cyc-ILE313(m)|GLY314(m):w:rA913(Ph)|rC912(Rb)
+********************  pdb1u0b.hb2  ********************
+B0531-HOH O --- A0071-  C O3' 3.26 --- A0072-  C OP1 2.89 --- B0229-ASP O   2.79 --- B0232-PHE O   2.48 ['NIL'] —> PHE232(m)|ASP229(m):w:rC72(Ph)|rC71(Rb)
+********************  pdb1uvi.hb2  ********************
+C2076-HOH O --- C0291-ARG NH2 2.78 --- C0396-GLY O   2.72 --- F0007-  C O3' 3.03 --- F0008-  C OP1 2.83 ['NIL'] —> ARG291(s)|GLY396(m):w:rC8(Ph)|rC7(Rb)
+********************  pdb2bh2.hb2  ********************
+B2057-HOH O --- B0135-LEU N   3.06 --- B0135-LEU O   3.15 --- B0190-GLY O   2.64 --- D1933-  G N1  3.09 --- D1934-  C O2  3.24 ['D1933-  G N2  B0135-LEU O   2.97'] —> cyc-LEU135(m)|GLY190(m):w:rG1933(WC)|rC1934(SG)
+********************  pdb2g4b.hb2  ********************
+A0030-HOH O --- B0003-  U O2' 2.80 --- B0004-  U OP2 3.01 --- A0155-ASN N   2.94 --- A0196-ASN O   3.04 --- A0196-ASN OD1 2.70 ['NIL'] —> ASN196(ms)|ASN155(m):w:rU3(SG)|rU4(Ph)
+********************  pdb2uwm.hb2  ********************
+B2088-HOH O --- B0607-LYS NZ  2.82 --- B0608-TYR OH  3.23 --- D0019-  G O3' 3.33 --- D0020-  C OP1 2.92 ['D0019-  G OP1 B0607-LYS NZ  2.61'] —> cyc-TYR608(s)|LYS607(s):w:rC20(Ph)|rG19(Rb)
+********************  pdb2xzo.hb2  ********************
+A1168-HOH O --- A0422-ARG NH1 2.80 --- A0622-ASP OD2 3.17 --- D0006-  U O3' 3.10 --- D0007-  U OP1 2.95 ['NIL'] —> ASP622(s)|ARG422(s):w:rU7(Ph)|rU6(Rb)
+********************  pdb2zko.hb2  ********************
+C0026-HOH O --- A0005-THR OG1 2.76 --- B0029-ASP OD2 2.67 --- C0016-  G O2' 2.58 --- C0017-  U O4' 3.11 ['NIL'] —> THR5(s)|ASP29(s):w:rG16(SG)|rU17(Rb)
+D0036-HOH O --- A0029-ASP OD2 2.66 --- B0005-THR OG1 2.80 --- D0016-  G O2' 2.59 --- D0017-  U O4' 3.14 ['NIL'] —> THR5(s)|ASP29(s):w:rG16(SG)|rU17(Rb)
+********************  pdb2zue.hb2  ********************
+A1166-HOH O --- A0455-LYS O   3.17 --- A0629-MET O   2.87 --- B0936-  U O2  3.22 --- B0938-  A N7  2.88 ['B0936-  U O4  A0629-MET N   3.01', 'B0938-  A OP2 A0455-LYS NZ  2.86'] —> cyc-MET629(m)|LYS455(m):w:rU936(WC)|rA938(HG)
+********************  pdb3am1.hb2  ********************
+A0261-HOH O --- A0220-VAL O   2.65 --- A0223-ARG NH1 3.09 --- B0021-  G O3' 3.08 --- B0021-  G O2' 3.32 --- B0022-  U OP2 3.03 ['NIL'] —> ARG223(s)|VAL220(m):w:rG21(SG)|rU22(Ph)
+********************  pdb3avx.hb2  ********************
+T3533-HOH O --- A0946-ASN O   3.30 --- A0948-GLN N   2.92 --- T2106-  U O2' 2.64 --- T2107-  G O4' 3.07 ["T2106-  U O3' A0946-ASN O   2.99", "T2106-  U O2' A0946-ASN O   3.07"] —> cyc-GLN948(m)|ASN946(m):w:rU2106(SG)|rG2107(Rb)
+********************  pdb3bt7.hb2  ********************
+D0073-HOH O --- B0156-ALA O   2.73 --- B0159-THR O   3.28 --- D0061-  C O3' 2.59 --- D0061-  C O2' 3.14 --- D0062-  A OP1 2.73 ['NIL'] —> THR159(m)|ALA156(m):w:rC61(SG)|rA62(Ph)
+********************  pdb3fht.hb2  ********************
+B0522-HOH O --- B0251-GLN O   2.86 --- B0414-LYS NZ  3.30 --- D0002-  U O2  3.23 --- D0002-  U N3  3.02 --- D0003-  U O2  3.27 ['NIL'] —> LYS414(s)|GLN251(m):w:rU2(WC)|rU3(WC)
+********************  pdb3g9y.hb2  ********************
+A0002-HOH O --- A0076-ASN OD1 3.02 --- A0077-VAL N   2.90 --- C0004-  U O2  3.33 --- C0006-  A O2' 2.64 ['C0004-  U N3  A0076-ASN OD1 2.74', 'C0004-  U O4  A0076-ASN ND2 3.09'] —> cyc-ASN76(s)|VAL77(m):w:rU4(WC)|rA6(SG)
+********************  pdb3hjw.hb2  ********************
+D0061-HOH O --- A0322-ASP OD1 2.74 --- A0323-VAL O   3.10 --- D0003-  G O3' 3.10 --- D0004-  C OP1 2.65 ['NIL'] —> ASP322(s)|VAL323(m):w:rC4(Ph)|rG3(Rb)
+********************  pdb3k49.hb2  ********************
+C0141-HOH O --- C0658-GLN O   2.61 --- C0662-HIS NE2 2.64 --- D0007-  A O3' 3.14 --- D0007-  A O2' 3.29 --- D0008-  A O4' 3.00 ['NIL'] —> HIS662(s)|GLN658(m):w:rA7(SG)|rA8(Rb)
+E0032-HOH O --- E0586-VAL O   2.92 --- E0590-TYR OH  2.52 --- F0009-  U O2' 2.91 --- F0010-  A O4' 2.78 ['NIL'] —> TYR590(s)|VAL586(m):w:rU9(SG)|rA10(Rb)
+********************  pdb3o8c.hb2  ********************
+C0094-HOH O --- A0296-ASP OD1 2.89 --- A0298-THR OG1 2.84 --- C0005-  U O2  2.34 --- C0006-  U O2  3.31 ['C0006-  U O2  A0298-THR OG1 2.96'] —> cyc-THR298(s)|ASP296(s):w:rU6(WC)|rU5(SG)
+********************  pdb3q0q.hb2  ********************
+A0015-HOH O --- A0774-VAL O   2.56 --- A0778-TYR OH  3.31 --- B0007-  U O2' 2.81 --- B0008-  A O4' 2.85 ['NIL'] —> TYR778(s)|VAL774(m):w:rU7(SG)|rA8(Rb)
+********************  pdb3qg9.hb2  ********************
+B0030-HOH O --- A0360-LYS O   2.96 --- A0363-CYS SG  3.27 --- B0004-  G O2' 2.55 --- B0004-  G N3  2.88 --- B0005-  C O4' 3.30 ['NIL'] —> CYS363(s)|LYS360(m):w:rG4(SG)|rC5(Rb)
+********************  pdb3r9w.hb2  ********************
+B0650-HOH O --- A0277-LEU O   3.30 --- A0279-LEU N   3.18 --- B1535-  C N3  2.68 --- B1537-  U O4  2.63 ['B1535-  C N4  A0279-LEU O   2.76', 'B1537-  U O2  A0277-LEU N   2.68', 'B1537-  U N3  A0277-LEU O   2.73'] —> cyc-LEU279(m)|LEU277(m):w:rC1535(WC)|rU1537(WC)
+********************  pdb3rw6.hb2  ********************
+H0078-HOH O --- A0276-ARG NH1 3.14 --- A0278-TYR OH  2.77 --- H0012-  A OP1 2.89 --- H0013-  A O2' 2.72 ['NIL'] —> TYR278(s)|ARG276(s):w:rA13(SG)|rA12(Ph)
+********************  pdb3vjr.hb2  ********************
+A0244-HOH O --- A0114-HIS N   3.00 --- A0115-GLY N   2.80 --- B0001-  G O4' 2.78 --- B0002-  G O2' 2.89 ['B0001-  G OP2 A0114-HIS NE2 2.93'] —> cyc-HIS114(m)|GLY115(m):w:rG2(SG)|rG1(Rb)
+D0041-HOH O --- C0114-HIS N   2.95 --- C0115-GLY N   2.85 --- D0001-  G O4' 2.74 --- D0002-  G O2' 3.03 ['D0001-  G OP2 C0114-HIS NE2 2.76'] —> cyc-HIS114(m)|GLY115(m):w:rG2(SG)|rG1(Rb)
+********************  pdb3wbm.hb2  ********************
+A0101-HOH O --- A0014-ILE O   2.79 --- A0042-ARG N   2.90 --- X0012-  C O3' 3.21 --- X0013-  C OP1 2.85 ['NIL'] —> ILE14(m)|ARG42(m):w:rC13(Ph)|rC12(Rb)
+********************  pdb4c8y.hb2  ********************
+A2103-HOH O --- A0142-LEU O   2.73 --- A0145-GLU OE1 2.60 --- C0025-  G O3' 2.67 --- C0026-  G OP1 3.08 ['NIL'] —> GLU145(s)|LEU142(m):w:rG26(Ph)|rG25(Rb)
+********************  pdb4ed5.hb2  ********************
+C0102-HOH O --- B0095-TYR O   2.92 --- B0097-ARG NE  2.95 --- C0008-  U O2  3.24 --- C0009-  U O4  2.71 ['C0008-  U O2  B0097-ARG NH1 2.93', 'C0009-  U O4  B0097-ARG N   2.75', 'C0009-  U N3  B0097-ARG O   2.69'] —> cyc-ARG97(s)|TYR95(m):w:rU8(WC)|rU9(HG)
+D0203-HOH O --- A0095-TYR O   3.31 --- A0097-ARG NE  3.07 --- D0008-  U O2  3.19 --- D0009-  U O4  3.00 ['D0008-  U O2  A0097-ARG NH2 3.21', 'D0009-  U O4  A0097-ARG N   2.78', 'D0009-  U N3  A0097-ARG O   2.82'] —> cyc-ARG97(s)|TYR95(m):w:rU8(WC)|rU9(HG)
+********************  pdb4h5p.hb2  ********************
+A0397-HOH O --- A0030-TYR OH  3.14 --- A0096-ASN ND2 2.68 --- E0002-  U OP2 2.64 --- E0004-  U O5' 3.32 ['NIL'] —> TYR30(s)|ASN96(s):w:rU2(Ph)|rU4(Ph)
+B0310-HOH O --- B0030-TYR OH  2.77 --- B0096-ASN ND2 3.05 --- E0009-  U OP2 2.97 --- E0010-  U OP1 3.16 ['E0010-  U OP1 B0030-TYR OH  2.60'] —> cyc-TYR30(s)|ASN96(s):w:rU10(Ph)|rU9(Ph)
+C0305-HOH O --- C0030-TYR OH  3.08 --- C0096-ASN ND2 2.70 --- F0009-  U OP2 2.91 --- F0011-  U O5' 3.28 ['NIL'] —> TYR30(s)|ASN96(s):w:rU11(Ph)|rU9(Ph)
+D0402-HOH O --- D0030-TYR OH  2.66 --- D0096-ASN ND2 3.04 --- F0002-  U OP2 2.71 --- F0003-  U OP1 3.30 ['F0003-  U OP1 D0030-TYR OH  2.65'] —> cyc-TYR30(s)|ASN96(s):w:rU2(Ph)|rU3(Ph)
+********************  pdb4j7l.hb2  ********************
+A0814-HOH O --- A0256-THR OG1 3.11 --- A0294-ARG NE  2.50 --- A0294-ARG NH2 3.09 --- B0003-  U O3' 3.28 --- B0004-  U OP1 2.61 ['B0003-  U OP1 A0256-THR N   2.89', 'B0003-  U OP1 A0256-THR OG1 2.65', 'B0004-  U OP1 A0294-ARG NH2 2.83'] —> cyc-THR256(s)|ARG294(s):w:rU4(Ph)|rU3(Rb)
+B0102-HOH O --- A0258-LYS N   3.12 --- A0273-LYS NZ  2.82 --- B0004-  U OP1 2.51 --- B0005-  U OP2 3.33 ['B0004-  U OP2 A0273-LYS NZ  2.98', 'B0005-  U OP1 A0258-LYS NZ  2.82'] —> cyc-LYS273(s)|LYS258(m):w:rU4(Ph)|rU5(Ph)
+********************  pdb4k4x.hb2  ********************
+I0747-HOH O --- I0410-ASN ND2 3.25 --- I0413-ASP OD2 2.55 --- K0696-  G O2' 2.97 --- K0697-  A O4' 3.32 ['NIL'] —> ASP413(s)|ASN410(s):w:rG696(SG)|rA697(Rb)
+K0803-HOH O --- I0409-LYS NZ  3.00 --- I0410-ASN ND2 3.28 --- K0696-  G O3' 3.04 --- K0697-  A OP1 2.61 ['NIL'] —> LYS409(s)|ASN410(s):w:rA697(Ph)|rG696(Rb)
+********************  pdb4lgt.hb2  ********************
+D0349-HOH O --- D0081-THR OG1 2.61 --- D0083-ASN O   3.21 --- F2589-  A O2' 2.96 --- F2589-  A N3  3.04 --- F2590-  A O4' 2.96 ['NIL'] —> THR81(s)|ASN83(m):w:rA2589(SG)|rA2590(Rb)
+********************  pdb4n0t.hb2  ********************
+B0244-HOH O --- A0155-ASN ND2 3.06 --- A0201-ARG NH2 3.10 --- B0047-  A OP1 2.71 --- B0048-  C OP2 2.63 ['B0048-  C OP2 A0201-ARG NH1 3.00'] —> cyc-ASN155(s)|ARG201(s):w:rA47(Ph)|rC48(Ph)
+********************  pdb4oav.hb2  ********************
+A0111-HOH O --- B0354-TYR N   2.88 --- A0005-  A O2' 3.02 --- A0006-  A OP2 1.85 --- D0057-GLU OE1 2.69 ['NIL'] —> GLU57(s)|TYR354(m):w:rA5(SG)|rA6(Ph)
+D1103-HOH O --- A0003-  A N3  2.85 --- A0004-  A O4' 3.13 --- D0091-ASN ND2 2.79 --- D0122-ASP OD2 2.80 ['NIL'] —> ASP122(s)|ASN91(s):w:rA3(SG)|rA4(Rb)
+********************  pdb4oog.hb2  ********************
+D0233-HOH O --- C0369-ASN ND2 3.07 --- C0376-SER OG  3.35 --- D0014-  G O2' 3.03 --- D0015-  A N7  3.13 ["D0014-  G O2' C0376-SER OG  3.00", "D0015-  A O2' C0376-SER OG  3.17"] —> cyc-SER376(s)|ASN369(s):w:rA15(HG)|rG14(SG)
+********************  pdb4qu7.hb2  ********************
+X0901-HOH O --- D0407-GLY N   3.25 --- D0440-THR O   2.97 --- X0802-  G N2  2.82 --- X0804-  G O6  3.28 ['NIL'] —> THR440(m)|GLY407(m):w:rG804(HG)|rG802(SG)
+********************  pdb4rmo.hb2  ********************
+P0234-HOH O --- O0051-SER OG  3.10 --- O0057-TYR OH  3.23 --- P0001-  A O5' 2.83 --- P0002-  A OP2 2.60 ['NIL'] —> TYR57(s)|SER51(s):w:rA1(Ph)|rA2(Ph)
+********************  pdb4s3n.hb2  ********************
+C0102-HOH O --- A0034-GLY O   2.74 --- A0041-ARG NH1 2.98 --- C0005-  U O2' 2.73 --- C0006-  A O4' 3.30 ['NIL'] —> ARG41(s)|GLY34(m):w:rU5(SG)|rA6(Rb)
+********************  pdb4wtj.hb2  ********************
+T0108-HOH O --- T0003-  C O2' 2.75 --- T0003-  C O2  2.69 --- T0004-  C O4' 3.03 --- A0285-LEU O   3.29 --- A0288-SER N   3.02 ['NIL'] —> SER288(m)|LEU285(m):w:rC3(SG)|rC4(Rb)
+********************  pdb4x4t.hb2  ********************
+G0102-HOH O --- F0226-VAL O   2.93 --- F0229-ASN N   2.84 --- G0008-  G OP1 3.11 --- G0030-  C OP1 2.79 ['NIL'] —> VAL226(m)|ASN229(m):w:rC30(Ph)|rG8(Ph)
+********************  pdb4xww.hb2  ********************
+B0876-HOH O --- B0313-SER OG  2.94 --- B0316-GLN NE2 3.15 --- E0003-  U O2' 3.23 --- E0004-  U OP1 3.33 ['NIL'] —> SER313(s)|GLN316(s):w:rU3(SG)|rU4(Ph)
+D0102-HOH O --- A0313-SER OG  2.87 --- A0316-GLN NE2 3.11 --- D0003-  U O2' 3.12 --- D0004-  U OP1 2.32 ['NIL'] —> SER313(s)|GLN316(s):w:rU3(SG)|rU4(Ph)
+********************  pdb4yye.hb2  ********************
+A0623-HOH O --- A0306-LYS NZ  2.57 --- A0312-TYR OH  2.65 --- D0044-  A O2' 2.97 --- D0044-  A N3  3.09 --- D0045-  G O4' 3.11 ['NIL'] —> TYR312(s)|LYS306(s):w:rA44(SG)|rG45(Rb)
+B0622-HOH O --- B0306-LYS NZ  2.53 --- B0312-TYR OH  3.03 --- C0044-  A O2' 2.88 --- C0044-  A N3  3.04 --- C0045-  G O4' 3.17 ['NIL'] —> TYR312(s)|LYS306(s):w:rA44(SG)|rG45(Rb)
+********************  pdb4zlr.hb2  ********************
+A1217-HOH O --- A0959-TYR O   2.58 --- A0976-ASN N   2.92 --- C0004-  U O2  3.15 --- C0005-  U O2  2.80 ['NIL'] —> TYR959(m)|ASN976(m):w:rU4(WC)|rU5(WC)
+B1212-HOH O --- C0012-  U O2  3.21 --- C0013-  U O2  2.93 --- B0959-TYR O   2.55 --- B0976-ASN N   2.86 ['NIL'] —> TYR959(m)|ASN976(m):w:rU12(WC)|rU13(WC)
+********************  pdb5ah5.hb2  ********************
+B2310-HOH O --- B0628-ARG NE  2.75 --- B0628-ARG NH2 2.89 --- B0693-TYR OH  2.80 --- D0039-  U O3' 3.13 --- D0040-  G OP2 2.55 ['D0040-  G OP2 B0628-ARG NH2 3.19'] —> cyc-TYR693(s)|ARG628(s):w:rG40(Ph)|rU39(Rb)
+********************  pdb5c0y.hb2  ********************
+B0719-HOH O --- B0315-TYR OH  3.22 --- B0319-LYS NZ  2.34 --- D0012-  U O2' 3.05 --- D0013-  U OP2 3.09 ['D0013-  U OP2 B0315-TYR OH  2.77'] —> cyc-TYR315(s)|LYS319(s):w:rU12(SG)|rU13(Ph)
+********************  pdb5f8h.hb2  ********************
+C0804-HOH O --- A0413-ASP O   3.23 --- A0417-SER OG  2.89 --- C0697-  A O2' 2.63 --- C0697-  A N3  2.92 --- C0698-  G O4' 3.15 ['NIL'] —> SER417(s)|ASP413(m):w:rA697(SG)|rG698(Rb)
+********************  pdb5gxh.hb2  ********************
+B0203-HOH O --- A0014-TRP O   2.66 --- A0066-ARG NH1 2.88 --- B0003-  U O4  3.16 --- B0004-  U O4  2.54 ['B0003-  U O4  A0014-TRP N   2.81'] —> cyc-ARG66(s)|TRP14(m):w:rU3(HG)|rU4(HG)
+********************  pdb5hr7.hb2  ********************
+A0612-HOH O --- D0026-  A O3' 2.92 --- D0026-  A O2' 3.31 --- D0027-  C OP1 3.02 --- A0196-LEU O   2.82 --- A0203-LEU O   2.70 ['NIL'] —> LEU203(m)|LEU196(m):w:rA26(SG)|rC27(Ph)
+B0612-HOH O --- C0032-  C N4  3.14 --- C0038-  C O2  3.10 --- C0038-  C N3  2.86 --- B0271-ASN O   2.76 --- B0274-ARG O   3.35 ['C0038-  C N4  B0274-ARG O   3.11'] —> cyc-ASN271(m)|ARG274(m):w:rC32(WC)|rC38(WC)
+********************  pdb5i9f.hb2  ********************
+F0103-HOH O --- A0300-ASN O   2.94 --- A0336-THR OG1 2.59 --- F0003-  U O2' 2.58 --- F0004-  U O4' 3.12 ['F0003-  U O2  A0300-ASN ND2 2.98', "F0004-  U O4' A0336-THR OG1 2.97"] —> cyc-THR336(s)|ASN300(m):w:rU3(SG)|rU4(Rb)
+F0105-HOH O --- A0335-ASN O   2.91 --- A0371-THR OG1 2.88 --- F0004-  U O2' 2.68 --- F0005-  U O4' 3.26 ['F0004-  U O2  A0335-ASN ND2 2.89'] —> cyc-THR371(s)|ASN335(m):w:rU4(SG)|rU5(Rb)
+********************  pdb5m0i.hb2  ********************
+E0219-HOH O --- B0036-ASN ND2 3.12 --- B0063-ARG NE  2.93 --- E0008-  G O3' 3.33 --- E0009-  A OP1 2.74 ['NIL'] —> ASN36(s)|ARG63(s):w:rA9(Ph)|rG8(Rb)
+F0206-HOH O --- C0036-ASN ND2 3.12 --- C0063-ARG NE  2.83 --- F0008-  G O3' 3.31 --- F0009-  A OP1 2.76 ['NIL'] —> ASN36(s)|ARG63(s):w:rA9(Ph)|rG8(Rb)
+********************  pdb5m3h.hb2  ********************
+V0101-HOH O --- A0388-TYR OH  2.58 --- B0365-ARG NH2 2.92 --- V0009-  C OP2 2.52 --- V0010-  A N7  2.90 --- V0010-  A N6  3.25 ['V0010-  A OP2 B0365-ARG NH2 2.73'] —> cyc-TYR388(s)|ARG365(s):w:rA10(HG)|rC9(Ph)
+********************  pdb5n94.hb2  ********************
+A1013-HOH O --- A0664-SER O   2.64 --- A0665-PHE O   2.79 --- C0005-  U O4  2.70 --- C0006-  U O4  2.99 ['NIL'] —> SER664(m)|PHE665(m):w:rU5(WC)|rU6(WC)
+********************  pdb5the.hb2  ********************
+C1331-HOH O --- C1097-ARG NE  3.00 --- C1150-THR O   2.56 --- D0006-  A O3' 3.22 --- D0007-  A OP1 2.66 ['D0007-  A OP1 C1097-ARG NH2 3.25'] —> cyc-ARG1097(s)|THR1150(m):w:rA7(Ph)|rA6(Rb)
+********************  pdb5ud5.hb2  ********************
+C0102-HOH O --- A0051-SER OG  3.25 --- A0052-ARG N   3.08 --- C0050-  C OP1 2.43 --- C0051-  G OP2 2.96 ['C0050-  C OP1 A0051-SER OG  2.55', 'C0051-  G OP2 A0052-ARG NE  2.89'] —> cyc-SER51(s)|ARG52(m):w:rC50(Ph)|rG51(Ph)
+********************  pdb5w1h.hb2  ********************
+A1815-HOH O --- A1279-LYS O   2.89 --- A1283-THR N   3.07 --- A1283-THR OG1 2.70 --- B-025-  A N3  2.78 --- B-024-  U O4' 3.29 ["B-025-  A O2' A1279-LYS O   2.66", 'B-024-  U OP1 A1279-LYS NZ  2.83'] —> cyc-THR1283(ms)|LYS1279(m):w:rA-25(SG)|rU-24(Rb)
+********************  pdb5wlh.hb2  ********************
+A1601-HOH O --- A0823-LYS NZ  2.09 --- A1291-GLN OE1 2.69 --- B-001-  C OP1 2.46 --- B0001-  C OP2 2.78 ['B0001-  C OP2 A0823-LYS NZ  2.94'] —> cyc-LYS823(s)|GLN1291(s):w:rC-1(Ph)|rC1(Ph)
+A1645-HOH O --- A0123-TYR OH  2.49 --- A0235-GLN OE1 3.22 --- B-017-  A O2' 2.99 --- B-011-  A OP1 2.81 ['NIL'] —> TYR123(s)|GLN235(s):w:rA-17(SG)|rA-11(Ph)
+A1743-HOH O --- A1279-LYS O   2.91 --- A1283-THR N   2.92 --- A1283-THR OG1 2.63 --- B-025-  A N3  2.77 --- B-024-  U O4' 3.34 ["B-025-  A O2' A1279-LYS O   2.64", 'B-024-  U OP1 A1279-LYS NZ  2.73'] —> cyc-THR1283(ms)|LYS1279(m):w:rA-25(SG)|rU-24(Rb)
+********************  pdb5wzh.hb2  ********************
+A0710-HOH O --- A0171-ARG O   2.87 --- A0175-HIS NE2 2.77 --- B0009-  G O3' 3.17 --- B0009-  G O2' 3.21 --- B0010-  G O4' 3.10 ['NIL'] —> HIS175(s)|ARG171(m):w:rG9(SG)|rG10(Rb)
+********************  pdb5yki.hb2  ********************
+C0101-HOH O --- A0069-VAL O   2.75 --- A0073-TYR OH  2.76 --- C0008-  U O2' 2.46 --- C0009-  A O4' 2.93 ['NIL'] —> TYR73(s)|VAL69(m):w:rU8(SG)|rA9(Rb)
+********************  pdb6een.hb2  ********************
+A0405-HOH O --- A0009-THR O   2.91 --- A0045-THR OG1 2.43 --- F0001-  G O2' 2.84 --- F0002-  G O4' 3.33 ['F0001-  G N3  A0009-THR OG1 2.63'] —> cyc-THR45(s)|THR9(m):w:rG1(SG)|rG2(Rb)
+A0409-HOH O --- A0254-THR O   2.81 --- A0290-THR OG1 2.47 --- F0008-  G O2' 2.73 --- F0009-  G O4' 3.28 ['F0008-  G N3  A0254-THR OG1 2.63', "F0009-  G O4' A0290-THR OG1 3.17"] —> cyc-THR290(s)|THR254(m):w:rG8(SG)|rG9(Rb)
+D0405-HOH O --- A0044-THR O   2.69 --- A0080-THR OG1 2.60 --- F0002-  G O2' 2.69 --- F0003-  G O4' 3.27 ['F0002-  G N3  A0044-THR OG1 2.54', "F0003-  G O4' A0080-THR OG1 3.16"] —> cyc-THR80(s)|THR44(m):w:rG2(SG)|rG3(Rb)
+D0406-HOH O --- A0114-THR O   2.68 --- A0150-THR OG1 2.62 --- F0004-  G O2' 2.73 --- F0005-  G O4' 3.25 ['F0004-  G N3  A0114-THR OG1 2.43', "F0005-  G O4' A0150-THR OG1 2.97"] —> cyc-THR150(s)|THR114(m):w:rG4(SG)|rG5(Rb)
+D0407-HOH O --- A0079-THR O   2.79 --- A0115-THR OG1 2.68 --- F0003-  G O2' 2.63 --- F0004-  G O4' 3.26 ['F0003-  G N3  A0079-THR OG1 2.64', "F0004-  G O4' A0115-THR OG1 3.22"] —> cyc-THR115(s)|THR79(m):w:rG3(SG)|rG4(Rb)
+F0108-HOH O --- A0149-THR O   2.76 --- A0185-THR OG1 2.88 --- F0005-  G O2' 2.58 --- F0006-  G O4' 3.15 ['F0005-  G N3  A0149-THR OG1 2.41'] —> cyc-THR185(s)|THR149(m):w:rG5(SG)|rG6(Rb)
+********************  pdb6h9h.hb2  ********************
+B0477-HOH O --- B0154-ARG N   3.18 --- B0169-ARG NH1 2.91 --- E0019-  G OP1 2.91 --- E0020-  G OP2 3.09 ['E0019-  G OP2 B0154-ARG NH1 2.62'] —> cyc-ARG169(s)|ARG154(m):w:rG19(Ph)|rG20(Ph)
+D0214-HOH O --- A0148-ARG NH1 2.92 --- A0149-ASN OD1 3.01 --- D0000-  G O6  2.65 --- D0001-  G O6  2.90 ['D0000-  G N7  A0148-ARG NH2 3.03', 'D0000-  G OP1 A0149-ASN ND2 2.88', 'D0001-  G N1  A0149-ASN OD1 2.86'] —> cyc-ASN149(s)|ARG148(s):w:rG1(WC)|rG0(HG)
+E0209-HOH O --- B0148-ARG NH1 3.10 --- B0149-ASN OD1 3.17 --- E0000-  G O6  2.58 --- E0001-  G O6  3.04 ['E0000-  G OP1 B0149-ASN ND2 3.05', 'E0001-  G N1  B0149-ASN OD1 2.95'] —> cyc-ASN149(s)|ARG148(s):w:rG0(WC)|rG1(WC)
+********************  pdb6hau.hb2  ********************
+B0704-HOH O --- B0307-LYS NZ  2.84 --- B0308-GLN OE1 3.06 --- D0046-  U O2  3.05 --- D0047-  U O2  3.26 ["D0046-  U O2' B0307-LYS NZ  3.25", 'D0046-  U O4  B0308-GLN NE2 3.09'] —> cyc-LYS307(s)|GLN308(s):w:rU46(WC)|rU47(SG)
+********************  pdb6iv8.hb2  ********************
+A1258-HOH O --- A0370-LYS O   2.89 --- A0371-ASN OD1 3.23 --- B0002-  C O2  3.09 --- B0003-  C O4' 3.23 ['NIL'] —> ASN371(s)|LYS370(m):w:rC2(SG)|rC3(Rb)
+D0203-HOH O --- D0008-  U O3' 3.26 --- D0009-  U OP1 2.49 --- C0669-TYR OH  2.53 --- C0729-THR OG1 2.91 ["D0008-  U O3' C0669-TYR OH  3.11", "D0008-  U O2' C0669-TYR OH  2.68"] —> cyc-TYR669(s)|THR729(s):w:rU9(Ph)|rU8(Rb)
+********************  pdb6lsh.hb2  ********************
+B0705-HOH O --- A0295-SER OG  2.90 --- A0327-TYR OH  2.76 --- B0602-  G O2' 2.96 --- B0602-  G N3  2.65 --- B0603-  U O4' 3.32 ['B0602-  G N2  A0327-TYR OH  3.03'] —> cyc-TYR327(s)|SER295(s):w:rG602(SG)|rU603(Rb)
+********************  pdb6oon.hb2  ********************
+B0110-HOH O --- A0365-ARG NH2 3.17 --- A0761-THR N   2.93 --- B0006-  A O3' 2.91 --- B0007-  A OP1 3.13 ['NIL'] —> ARG365(s)|THR761(m):w:rA7(Ph)|rA6(Rb)
+********************  pdb6pun.hb2  ********************
+A0719-HOH O --- A0322-GLN O   2.71 --- A0326-HIS NE2 2.62 --- B0006-  A O3' 3.17 --- B0006-  A O2' 3.11 --- B0007-  A O4' 3.17 ["B0007-  A O5' A0322-GLN NE2 3.11"] —> cyc-HIS326(s)|GLN322(m):w:rA6(SG)|rA7(Rb)
+C0718-HOH O --- C0322-GLN O   2.80 --- C0326-HIS NE2 2.71 --- D0006-  A O3' 2.97 --- D0006-  A O2' 2.91 --- D0007-  A O4' 3.07 ["D0006-  A O2' C0326-HIS NE2 3.01", "D0007-  A O5' C0322-GLN NE2 2.99"] —> cyc-HIS326(s)|GLN322(m):w:rA6(SG)|rA7(Rb)
+D0102-HOH O --- C0360-LYS O   2.91 --- C0364-ARG NE  3.05 --- D0005-  G O2' 2.65 --- D0006-  A O4' 2.81 ['D0006-  A OP1 C0360-LYS NZ  3.20'] —> cyc-ARG364(s)|LYS360(m):w:rG5(SG)|rA6(Rb)
+********************  pdb6rti.hb2  ********************
+X0201-HOH O --- A0613-SER O   2.84 --- A0617-LYS NZ  2.85 --- X0009-  A N6  1.93 --- X0030-  A OP1 2.97 ['NIL'] —> LYS617(s)|SER613(m):w:rA9(HG)|rA30(Ph)
+********************  pdb6sx0.hb2  ********************
+C0105-HOH O --- A0005-THR OG1 2.79 --- B0029-ASP OD2 2.66 --- C0016-  U O2' 2.50 --- C0017-  A O4' 3.12 ['NIL'] —> THR5(s)|ASP29(s):w:rU16(SG)|rA17(Rb)
+D0112-HOH O --- A0029-ASP OD2 2.68 --- B0005-THR OG1 2.76 --- D0016-  U O2' 2.64 --- D0017-  A O4' 3.03 ['NIL'] —> THR5(s)|ASP29(s):w:rU16(SG)|rA17(Rb)
+********************  pdb7cgf.hb2  ********************
+A0746-HOH O --- A0315-GLN O   2.71 --- A0319-ARG NH1 3.04 --- B0004-  G O2' 2.73 --- B0005-  A O5' 3.09 --- B0005-  A O4' 3.08 ['B0005-  A OP1 A0315-GLN NE2 2.57'] —> cyc-ARG319(s)|GLN315(m):w:rG4(SG)|rA5(Rb)
+A0779-HOH O --- A0354-PRO O   2.80 --- A0358-ARG NE  2.99 --- B0003-  A O2' 2.99 --- B0003-  A N3  3.02 --- B0004-  G O4' 3.13 ["B0004-  G O4' A0358-ARG NH2 3.06"] —> cyc-ARG358(s)|PRO354(m):w:rA3(SG)|rG4(Rb)
+B0104-HOH O --- A0243-ILE O   2.73 --- A0247-TYR OH  2.74 --- B0006-  U O2' 2.59 --- B0007-  A O4' 2.92 ['NIL'] —> TYR247(s)|ILE243(m):w:rU6(SG)|rA7(Rb)
+********************  pdb7d8o.hb2  ********************
+B0104-HOH O --- A0020-LYS NZ  2.86 --- A0146-GLY O   3.03 --- B-002-  U O2' 2.98 --- B-001-  U OP2 2.50 ['B-002-  U N3  A0020-LYS O   2.89'] —> cyc-LYS20(s)|GLY146(m):w:rU-2(SG)|rU-1(Ph)
+H0112-HOH O --- G0052-THR OG1 3.08 --- G0085-ASN ND2 3.05 --- H-003-  A O5' 2.94 --- H-002-  U OP2 2.66 ['NIL'] —> THR52(s)|ASN85(s):w:rA-3(Ph)|rU-2(Ph)
+J0103-HOH O --- I0020-LYS NZ  3.24 --- I0146-GLY O   2.94 --- J-002-  U O2' 3.06 --- J-001-  U OP2 2.50 ['J-002-  U N3  I0020-LYS O   2.84'] —> cyc-LYS20(s)|GLY146(m):w:rU-2(SG)|rU-1(Ph)
+K0220-HOH O --- K0020-LYS NZ  2.83 --- K0146-GLY O   2.72 --- L-002-  U O2' 3.33 --- L-001-  U OP2 2.80 ['L-002-  U N3  K0020-LYS O   2.95'] —> cyc-LYS20(s)|GLY146(m):w:rU-2(SG)|rU-1(Ph)
+L0209-HOH O --- K0052-THR OG1 3.10 --- K0085-ASN ND2 3.13 --- L-003-  A O5' 2.95 --- L-002-  U OP2 2.53 ['NIL'] —> THR52(s)|ASN85(s):w:rA-3(Ph)|rU-2(Ph)
+********************  pdb7dic.hb2  ********************
+C0102-HOH O --- A0470-ASN ND2 3.04 --- A0577-ARG NH2 3.01 --- C0007-  A OP1 2.88 --- C0008-  A OP2 2.82 ['NIL'] —> ASN470(s)|ARG577(s):w:rA7(Ph)|rA8(Ph)
+********************  pdb7mpl.hb2  ********************
+L0702-HOH O --- K0025-ASP OD1 2.52 --- K0084-ASP OD1 2.48 --- L0603-  G O3' 3.31 --- L0604-  G OP1 2.32 ['NIL'] —> ASP84(s)|ASP25(s):w:rG604(Ph)|rG603(Rb)
+N0702-HOH O --- M0025-ASP OD1 2.60 --- M0084-ASP OD1 2.41 --- N0603-  G O3' 3.31 --- N0604-  G OP1 2.40 ['NIL'] —> ASP84(s)|ASP25(s):w:rG604(Ph)|rG603(Rb)
+P0702-HOH O --- O0025-ASP OD1 2.53 --- O0084-ASP OD1 2.44 --- P0603-  G O3' 3.30 --- P0604-  G OP1 2.26 ['NIL'] —> ASP84(s)|ASP25(s):w:rG604(Ph)|rG603(Rb)
+********************  pdb7om6.hb2  ********************
+C0102-HOH O --- B0545-ARG N   3.22 --- B0564-ARG NH2 3.23 --- C0005-  A OP1 2.48 --- C0006-  U OP2 2.78 ['C0005-  A OP1 B0564-ARG NE  2.94', 'C0006-  U OP2 B0545-ARG NH1 3.27'] —> cyc-ARG564(s)|ARG545(m):w:rA5(Ph)|rU6(Ph)
+D0103-HOH O --- A0545-ARG N   3.19 --- A0564-ARG NH2 3.32 --- D0005-  A OP1 2.59 --- D0006-  U OP2 2.80 ['D0005-  A OP1 A0564-ARG NE  2.94', 'D0006-  U OP2 A0545-ARG NH2 3.17'] —> cyc-ARG564(s)|ARG545(m):w:rA5(Ph)|rU6(Ph)

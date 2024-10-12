@@ -1,0 +1,12 @@
+********************  pdb1jj2.hb2  ********************
+98407-HOH O --- 90117-  G O2' 2.55 --- 90117-  G N3  3.34 --- 90118-  C O4' 3.11 --- M0054-GLY O   2.78 --- M0055-ASP O   2.84 --- M0056-ASP OD1 3.26 ['90117-  G N2  M0055-ASP O   3.03'] —> cyc-ASP56(s)|GLY54(m)|ASP55(m):w:rG117(SG)|rC118(Rb)
+A8573-HOH O --- 01653-  A OP1 2.91 --- 01654-  U OP2 2.77 --- A0049-PRO O   2.74 --- A0052-SER OG  3.11 --- A0182-ARG NH1 3.17 ['01653-  A OP1 A0052-SER OG  2.64'] —> cyc-SER52(s)|ARG182(s)|PRO49(m):w:rA1653(Ph)|rU1654(Ph)
+********************  pdb2vnu.hb2  ********************
+B2007-HOH O --- B-003-  A OP1 2.58 --- B-002-  A OP2 2.81 --- D0735-ASN ND2 3.00 --- D0843-THR OG1 3.18 --- D0848-ARG NH2 3.21 ['B-002-  A OP1 D0843-THR OG1 2.55', 'B-002-  A OP2 D0848-ARG NH2 3.20'] —> cyc-THR843(s)|ASN735(s)|ARG848(s):w:rA-2(Ph)|rA-3(Ph)
+D2170-HOH O --- B-002-  A OP1 2.98 --- B-001-  A OP2 3.19 --- D0552-ASP OD1 2.57 --- D0843-THR O   2.80 --- D0844-SER OG  3.08 ['B-002-  A OP1 D0843-THR OG1 2.55'] —> cyc-SER844(s)|ASP552(s)|THR843(m):w:rA-1(Ph)|rA-2(Ph)
+********************  pdb3r2d.hb2  ********************
+J0091-HOH O --- J0009-LYS NZ  3.27 --- J0011-ARG NH1 2.93 --- J0050-SER OG  2.95 --- R0008-  U O3' 2.94 --- R0009-  G OP1 3.02 ['R0008-  U OP1 J0009-LYS NZ  2.95', 'R0009-  G OP1 J0011-ARG NH1 2.80', 'R0009-  G OP1 J0011-ARG NH2 2.66'] —> cyc-SER50(s)|LYS9(s)|ARG11(s):w:rG9(Ph)|rU8(Rb)
+********************  pdb5i9f.hb2  ********************
+A0510-HOH O --- A0339-ASP OD1 3.30 --- A0343-LYS NZ  2.30 --- A0374-ASP OD2 2.85 --- F0005-  U O3' 2.75 --- F0005-  U O2' 2.94 --- F0006-  C OP1 3.22 ["F0005-  U O3' A0343-LYS NZ  3.21", 'F0006-  C OP1 A0343-LYS NZ  2.98'] —> cyc-LYS343(s)|ASP374(s)|ASP339(s):w:rU5(SG)|rC6(Ph)
+********************  pdb7ozq.hb2  ********************
+A0229-HOH O --- A0056-ASP OD2 2.68 --- A0082-SER OG  3.04 --- A0084-LYS N   2.91 --- G0012-  G O3' 3.31 --- G0013-  U OP1 2.78 ["G0012-  G O3' A0056-ASP OD2 3.26", "G0012-  G O2' A0056-ASP OD2 2.70", 'G0013-  U OP1 A0082-SER OG  2.53'] —> cyc-SER82(s)|ASP56(s)|LYS84(m):w:rU13(Ph)|rG12(Rb)
